@@ -59,3 +59,7 @@ Saat dijalankan, program akan mensimulasikan pembacaan sensor setiap 5 detik:
 
 ## 👥 Kontributor
 * **Fahryan Amadis**
+* **Dian Hermawan**
+* **Ivan Maulana Bahtiar**
+* **Raushanfikri Abdillah**
+* **Risky Aditya Pratama**
